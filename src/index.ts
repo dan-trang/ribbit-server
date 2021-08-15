@@ -32,7 +32,7 @@ const main = async () => {
                 disableTouch: true,
             }),
             cookie: {
-                maxAge: 1000 * 60 * 60 * 24 * 365 * 10, //10 years
+                maxAge: 1000 * 60 * 60 * 24 * 365, // 1-year expiration
                 httpOnly: true,
                 sameSite: 'lax',  // protect crf
                 secure: __prod__, // cookies will only work in https

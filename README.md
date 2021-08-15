@@ -1,6 +1,6 @@
 # Ribbit v.1
 
-Ribbit is my first attempt at a fullstack web application built from back to front. The boilerplate for Ribbit is all thanks to **Ben Awad** @https://github.com/benawad/lireddit. He has an amazing youtube video walkthrough that builds up from all the backend PostgreSQL database setup to all the frontend React decisions -- and everything in between. The purpose of rebuilding his code is to:
+Ribbit is my first attempt at a fullstack web application built from back to front. The boilerplate is thanks to **Ben Awad** @https://github.com/benawad/lireddit. He has great video walkthrough on youtube. The purpose of rebuilding his code is to:
 1. Get hands on experience and exposure to building the entire stack
 1. Seeing all the moving parts of a web application
 1. Learning new frameworks and languages
